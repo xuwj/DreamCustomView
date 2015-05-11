@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="white">#ffffff</color>
+    <color name="linen">#faf0e6</color> <!--亚麻色-->
+    <color name="antiquewhite">#faebd7</color><!--古董白-->
+    <color name="fuchsia">#ff00ff</color><!--紫红色-->
+    <color name="hotpink">#ff69b4</color><!--热粉红色-->
+    <color name="orange">#ffa500</color><!--热粉红色-->
+    <color name="salmon">#fa8072</color><!--鲜肉色-->
+    <color name="violet">#ee82ee</color><!--紫罗兰色-->
+    <color name="orchid">#da70d6</color><!--淡紫色-->
+    <color name="dan_zi_se">#adff2f</color><!--黄绿色-->
+
+</resources>

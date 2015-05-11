@@ -1,0 +1,15 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="android:Theme.Material">
+        <!-- Customize your theme here. -->
+    <item name="android:colorPrimary">@color/orchid</item>
+    <item name="android:colorPrimaryDark">@color/orchid</item>
+    <item name="android:textColorPrimary">@color/white</item>
+    <item name="android:windowBackground">@color/salmon</item>
+    <item name="android:navigationBarColor">@color/orchid</item>
+
+    </style>
+
+
+</resources>

@@ -13,18 +13,18 @@ import com.xwj.customview.R;
 /**
  * Created by admin on 2015/4/9.
  */
-public class SampleRecyelerAdapter extends RecyclerView.Adapter<SampleRecyelerAdapter.ViewHolder> {
+public class StaggeredGridLayoutAdapter extends RecyclerView.Adapter<StaggeredGridLayoutAdapter.ViewHolder> {
     private Context mContext;
     private int imagesId[];
 
-    public SampleRecyelerAdapter(int[] imagesId, Context mContext) {
+    public StaggeredGridLayoutAdapter(int[] imagesId, Context mContext) {
         this.imagesId = imagesId;
         this.mContext = mContext;
     }
 
     @Override
     public ViewHolder onCreateViewHolder(ViewGroup parent, int viewType) {
-        View view = LayoutInflater.from(mContext).inflate(R.layout.item_recycler_vertical, parent, false);
+        View view = LayoutInflater.from(mContext).inflate(R.layout.item_staggered_gridlayout, parent, false);
         return new ViewHolder(view);
     }
 
